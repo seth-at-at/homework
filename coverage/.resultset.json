@@ -1,0 +1,35 @@
+{
+  "MiniTest": {
+    "coverage": {
+      "/Users/sethmoser/1701/mod1/homework/bad_connection.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        5,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1485273390
+  }
+}
