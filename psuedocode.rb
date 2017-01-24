@@ -4,7 +4,7 @@ class Connection
     @goodbye_count = 0
   end
 
-  def responses#(user_input)
+  def responses
       user_input = gets.chomp
     case 
       when user_input.split.empty?
